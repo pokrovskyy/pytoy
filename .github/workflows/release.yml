@@ -24,16 +24,7 @@ jobs:
         poetry install
     - name: Test with pytest
       run: |
-        poetry run pytest --cov=./ --cov-report=xml
-    - name: Upload coverage to Codecov  
-      uses: codecov/codecov-action@v1
-      with:
-        token: ${{ secrets.CODECOV_TOKEN }}
-        file: ./coverage.xml
-        flags: unittests
-        name: codecov-umbrella
-        yml: ./codecov.yml 
-        fail_ci_if_error: true
+        poetry run pytest
     - name: checkout
       uses: actions/checkout@master
       with:

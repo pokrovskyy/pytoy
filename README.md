@@ -1,6 +1,6 @@
 ## pytoy 
 
-![](https://github.com/pokrovskyy/pytoy/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/pokrovskyy/pytoy/branch/master/graph/badge.svg)](https://codecov.io/gh/pokrovskyy/pytoy) ![Release](https://github.com/pokrovskyy/pytoy/workflows/Release/badge.svg)
+![](https://github.com/pokrovskyy/pytoy/workflows/build/badge.svg) ![Release](https://github.com/pokrovskyy/pytoy/workflows/Release/badge.svg)
 
 [![Documentation Status](https://readthedocs.org/projects/pytoy/badge/?version=latest)](https://pytoy.readthedocs.io/en/latest/?badge=latest)
 
