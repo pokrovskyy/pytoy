@@ -4,7 +4,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/pytoy/badge/?version=latest)](https://pytoy.readthedocs.io/en/latest/?badge=latest)
 
-TSimple toy Python package 
+`pytoy` is a simple toy package created purely for educational purposes 
 
 ### Installation:
 
@@ -13,15 +13,19 @@ pip install -i https://test.pypi.org/simple/ pytoy
 ```
 
 ### Features
-- TODO
+
+`teddy()` function returns and optionally prints a nice teddy bear ASCII art.
 
 ### Dependencies
 
-- TODO
+None
 
 ### Usage
 
-- TODO
+`from pytoy import teddy
+
+my_teddy = teddy(False)
+print(my_teddy)`
 
 ### Documentation
 The official documentation is hosted on Read the Docs: <https://pytoy.readthedocs.io/en/latest/>
