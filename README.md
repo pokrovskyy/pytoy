@@ -22,10 +22,12 @@ None
 
 ### Usage
 
-`from pytoy import teddy
+```{python}
+from pytoy import teddy
 
 my_teddy = teddy(False)
-print(my_teddy)`
+print(my_teddy)
+```
 
 ### Documentation
 The official documentation is hosted on Read the Docs: <https://pytoy.readthedocs.io/en/latest/>
