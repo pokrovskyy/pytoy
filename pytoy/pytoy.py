@@ -16,14 +16,13 @@ def teddy(do_print = True):
     --------
     teddy()
     """
-
     # Art by Joan G. Stark
     # https://www.asciiart.eu/toys/teddy-bears
     teddy_str = """
           ___   .--.
     .--.-"   "-' .- |
    / .-,`          .'
-   \   `           \
+   \   `           \\
     '.            ! \\
       |     !  .--.  |
       \        '--'  /.____
